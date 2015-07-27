@@ -10,6 +10,7 @@ branches:
   only:
     - master
     - /.*-maintenance$/
+    - /^issue-2020/
 
 # Disable normal Windows builds in favor of our test script.
 build: off

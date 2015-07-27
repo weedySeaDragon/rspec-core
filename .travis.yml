@@ -43,3 +43,4 @@ branches:
   only:
     - master
     - /^\d+-\d+-maintenance$/
+    - /^issue-2020/
